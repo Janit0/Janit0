@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences by my resume **https://github.com/Janit0/Janit0**
 
-<h3 align="left"> What I've accomplished in building: 
+<h3 align="center"> What I've accomplished in building: 
   
 - 🔹 [Financial Chatbots - FinOclik](https://github.com/Janit0/FinOclik) — NLP-LLM based model to create a financial query chatbot, API extraction based stock analysis bot. 
   
