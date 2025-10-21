@@ -12,6 +12,11 @@
 
 - ⚡ Fun fact **I am also into sketching and music✏️🎵 and currently growing my art account on social media.**
 
+<h3 align="left"> What I've accomplished in building: 
+- 🔹 [Financial Chatbots - FinOclik](https://github.com/Janit0/FinOclik) — NLP-LLM based model to create a financial query chatbot, API extraction based stock analysis bot.  
+- 🔹 [Thyroid Cancer Classification](https://github.com/Janit0/Thyoroid_cancer_classification) — Prediction model using KNN,DNN,Logreg and more for classification of types of thyroid cancer.  
+- 🔹 [Storage-warehouse analysis](https://github.com/Janit0/analyze-model-car-mysql-workbench) — Analysis and solutions to handle warehouse closure for products using MySql.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/janit jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janit jindal" height="30" width="40" /></a>
