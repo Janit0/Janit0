@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am also into sketching and music✏️🎵 and currently growing my art account on social media.**
 
-- 📄 Know about my experiences **https://github.com/Janit0/Janit0/blob/main/Janit%20Jindal%20_Resume.docx**
+- 📄 Know about my experiences **https://github.com/Janit0/Janit0**
 
 <h3 align="left"> What I've accomplished in building: 
   
